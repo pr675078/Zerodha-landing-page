@@ -1,0 +1,19 @@
+.zerodha{
+width:600px;
+height:600px;
+padding-top:100px;
+padding-left:0px;
+margin-left:0px;
+flex:right;
+align-items: flex-end; 
+ margin: 0 0 20px 20px; /* Adds margin around the image for spacing */
+max-width: 45%; 
+}
+a{
+    text-decoration:none;
+}
+section{
+   max-width:300px;
+    padding-top:0px;
+   display:inline-block;
+}
